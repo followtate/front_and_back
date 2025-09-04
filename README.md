@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://followtate.github.io/front_and_back/)
+- [Публичная страница на GitHub Pages] https://followtate.github.io/front_and_back/src
