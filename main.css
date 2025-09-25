@@ -1,0 +1,35 @@
+.buttons{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.headerr{
+    display: flex;
+    gap: 50%;
+    padding-bottom: 2%;
+    border-radius: 8px;
+}
+body{
+    background-image: url("/new_background.jpg");
+}
+a{
+    color: #080F36;
+}
+.img_main{
+    margin-left:20%;
+    margin-top:7%;
+  
+    align-items: center;
+}
+.name{
+    color: white
+}
+.ff{
+    display: grid;
+  height: 100px;
+  align-items: end;
+    color:white;
+}
